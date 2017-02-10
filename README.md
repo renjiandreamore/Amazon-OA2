@@ -16,3 +16,11 @@ valid parentheses,
 reverse half of linkedlist, BST minimum path sum, 
 rotate matrix, longest palindrome, window sum, rectangle overlap,
 k closest points, deepcopy node）
+
+
+
+
+/*
+一二题：Rectangle Overlap, K Closest Points, Window Sum, Longest Palindrome
+第三题：Copy List with Random Pointer, Order Dependency, Minimum Spanning Tree, Five Scores, Maximum Subtree
+*/
